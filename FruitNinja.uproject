@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8B4C8B7C-45FD-7D32-BF41-66BCA8DDBC23}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FruitNinja",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor",
+		"Android"
+	]
+}
